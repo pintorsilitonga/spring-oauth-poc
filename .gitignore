@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 /.idea/**
 .idea_modules/
 # User-specific stuff:
@@ -24,3 +24,8 @@
 
 # Mongo Explorer plugin:
 .idea/**/mongoSettings.xml
+
+*.iml
+**/*.iml
+**/.gitkeep
+target/
